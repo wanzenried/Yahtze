@@ -5,6 +5,7 @@ let diceAmount = 5;
 let dices = [];
 let rerollDices = [];
 
+//test
 
 
 function setup() {
