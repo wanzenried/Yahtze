@@ -1,5 +1,5 @@
 function setup() {
-console.log(rollDice());
+console.log(rollDie());
 console.log(reRoll([1,1,1,1,1,1], [0,1,2]))
 }
 
